@@ -1,12 +1,12 @@
-- title: Start
+- title: "首页"
   url: "/"
   side: left
 
-- title: Getting Started
+- title: "书隅"
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "IT技术"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "生活"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "暂留"
   url: "/documentation/"
   side: left
   dropdown:
@@ -61,19 +61,12 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: "其他"
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: Blog
     url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
