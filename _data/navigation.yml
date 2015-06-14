@@ -10,63 +10,38 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "C++"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "IOS"
     url: "/design/typography/"
-  - title: "Page/Post"
+  - title: "JAVA"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Python"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "LUA"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
 - title: "生活"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "摄影"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "娱乐"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "制作"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: "暂留"
+- title: "西山"
   url: "/documentation/"
   side: left
   dropdown:
-  - title: Documentation
+  - title: "西山"
     url: "/documentation/"
-  - title: "Changelog"
+  - title: "鹊引"
     url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: "其他"
   url: "/blog/"
   side: right
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
